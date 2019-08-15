@@ -1,0 +1,19 @@
+{
+  "name": "ionicbarcode1",
+  "version": "1.0.0",
+  "description": "ionic cordova plugin test barcode",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lglcontrollerlax/ionicbarcode1.git"
+  },
+  "author": "Robert Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lglcontrollerlax/ionicbarcode1/issues"
+  },
+  "homepage": "https://github.com/lglcontrollerlax/ionicbarcode1#readme"
+}
